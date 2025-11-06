@@ -1,0 +1,38 @@
+[
+  {
+    "name": "sFET – Fuzzy Evolutionary Transformer for Agriculture Advisory",
+    "desc": "Developed a multilingual (English–Marathi) web app for smart agricultural advisory. Integrated Fuzzy Logic & Evolutionary Algorithms for uncertainty-based recommendations. Implemented RAG Knowledge Base with 20+ ICAR/FAO agricultural guidelines. Added voice & image input, real-time analytics dashboard, and explainable AI insights. Deployed on Vercel and 80% cost optimization.",
+    "image": "portfolio1",
+    "category": "mern",
+    "links": {
+      "view": "https://agri-nlp.vercel.app/"
+    }
+  },
+  {
+    "name": "Healthovia – Health & Wellness Web App",
+    "desc": "Designed a user-friendly health portal featuring BMI calculator, period cycle predictor, and health articles. Integrated appointment booking and data storage via MySQL backend. Focused on responsive UI and accessible design for seamless user experience.",
+    "image": "healthovia",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/prajaktaukirde/healthovia-mini-project"
+    }
+  },
+  {
+    "name": "ATM Simulator (Java)",
+    "desc": "Created a console-based ATM simulator with secure PIN authentication and detailed transaction history tracking. Implemented withdrawal, deposit, balance inquiry, and PIN change modules using object-oriented principles. Integrated SQL database for storing user details and transaction logs, ensuring data persistence and accuracy. Ensured code modularity, input validation, and a user-friendly navigation flow.",
+    "image": "atm",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/prajaktaukirde/ATM-Simulator-System"
+    }
+  },
+  {
+    "name": "Weather Dashboard (Power BI)",
+    "desc": "Designed an interactive weather dashboard visualizing real-time and historical data. Implemented data transformation and DAX measures for insights on temperature trends and rainfall patterns. Focused on user-friendly visuals and data storytelling.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://app.powerbi.com/view?r=eyJrIjoiODI1OGYzZjItODNjZS00ZTIwLTkxY2MtYjZkMDU3YjQ4YTdiIiwidCI6IjM4NGM2ZDhkLTYzN2ItNDUyZi05ZTA4LTkxODZlNzJiMTM2NyJ9"
+    }
+  }
+]
